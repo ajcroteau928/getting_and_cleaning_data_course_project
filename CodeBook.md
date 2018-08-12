@@ -11,82 +11,82 @@
 6. LAYING
 
 # List of Measurements Taken
-tBodyAccMeanX 
-tBodyAccMeanY 
-tBodyAccMeanZ 
-tBodyAccStandardX 
-tBodyAccStandardY 
-tBodyAccStandardZ 
-tGravityAccMeanX 
-tGravityAccMeanY 
-tGravityAccMeanZ 
-tGravityAccStandardX 
-tGravityAccStandardY 
-tGravityAccStandardZ 
-tBodyAccJerkMeanX 
-tBodyAccJerkMeanY 
-tBodyAccJerkMeanZ 
-tBodyAccJerkStandardX 
-tBodyAccJerkStandardY 
-tBodyAccJerkStandardZ 
-tBodyGyroMeanX 
-tBodyGyroMeanY 
-tBodyGyroMeanZ 
-tBodyGyroStandardX 
-tBodyGyroStandardY 
-tBodyGyroStandardZ 
-tBodyGyroJerkMeanX 
-tBodyGyroJerkMeanY 
-tBodyGyroJerkMeanZ 
-tBodyGyroJerkStandardX 
-tBodyGyroJerkStandardY 
-tBodyGyroJerkStandardZ 
-tBodyAccMagMean 
-tBodyAccMagStandard 
-tGravityAccMagMean 
-tGravityAccMagStandard 
-tBodyAccJerkMagMean 
-tBodyAccJerkMagStandard 
-tBodyGyroMagMean 
-tBodyGyroMagStandard 
-tBodyGyroJerkMagMean 
-tBodyGyroJerkMagStandard 
-fBodyAccMeanX 
-fBodyAccMeanY 
-fBodyAccMeanZ 
-fBodyAccStandardX 
-fBodyAccStandardY 
-fBodyAccStandardZ 
-fBodyAccMeanFreqX 
-fBodyAccMeanFreqY 
-fBodyAccMeanFreqZ 
-fBodyAccJerkMeanX 
-fBodyAccJerkMeanY 
-fBodyAccJerkMeanZ 
-fBodyAccJerkStandardX 
-fBodyAccJerkStandardY 
-fBodyAccJerkStandardZ 
-fBodyAccJerkMeanFreqX 
-fBodyAccJerkMeanFreqY 
-fBodyAccJerkMeanFreqZ 
-fBodyGyroMeanX 
-fBodyGyroMeanY 
-fBodyGyroMeanZ 
-fBodyGyroStandardX 
-fBodyGyroStandardY 
-fBodyGyroStandardZ 
-fBodyGyroMeanFreqX 
-fBodyGyroMeanFreqY 
-fBodyGyroMeanFreqZ 
-fBodyAccMagMean 
-fBodyAccMagStandard 
-fBodyAccMagMeanFreq 
-fBodyBodyAccJerkMagMean 
-fBodyBodyAccJerkMagStandard 
-fBodyBodyAccJerkMagMeanFreq 
-fBodyBodyGyroMagMean 
-fBodyBodyGyroMagStandard 
-fBodyBodyGyroMagMeanFreq 
-fBodyBodyGyroJerkMagMean 
-fBodyBodyGyroJerkMagStandard 
-fBodyBodyGyroJerkMagMeanFreq
+1. tBodyAccMeanX 
+2. tBodyAccMeanY 
+3. tBodyAccMeanZ 
+4. tBodyAccStandardX 
+5. tBodyAccStandardY 
+6. tBodyAccStandardZ 
+7. tGravityAccMeanX 
+8. tGravityAccMeanY 
+9. tGravityAccMeanZ 
+10. tGravityAccStandardX 
+11. tGravityAccStandardY 
+12. tGravityAccStandardZ 
+13. tBodyAccJerkMeanX 
+14. tBodyAccJerkMeanY 
+15. tBodyAccJerkMeanZ 
+16. tBodyAccJerkStandardX 
+17. tBodyAccJerkStandardY 
+18. tBodyAccJerkStandardZ 
+19. tBodyGyroMeanX 
+20. tBodyGyroMeanY 
+21. tBodyGyroMeanZ 
+22. tBodyGyroStandardX 
+23. tBodyGyroStandardY 
+24. tBodyGyroStandardZ 
+25. tBodyGyroJerkMeanX 
+26. tBodyGyroJerkMeanY 
+27. tBodyGyroJerkMeanZ 
+28. tBodyGyroJerkStandardX 
+29. tBodyGyroJerkStandardY 
+30. tBodyGyroJerkStandardZ 
+31. tBodyAccMagMean 
+32. tBodyAccMagStandard 
+33. tGravityAccMagMean 
+34. tGravityAccMagStandard 
+35. tBodyAccJerkMagMean 
+36. tBodyAccJerkMagStandard 
+37. tBodyGyroMagMean 
+38. tBodyGyroMagStandard 
+39. tBodyGyroJerkMagMean 
+40. tBodyGyroJerkMagStandard 
+41. fBodyAccMeanX 
+42. fBodyAccMeanY 
+43. fBodyAccMeanZ 
+44. fBodyAccStandardX 
+45. fBodyAccStandardY 
+46. fBodyAccStandardZ 
+47. fBodyAccMeanFreqX 
+48. fBodyAccMeanFreqY 
+49. fBodyAccMeanFreqZ 
+50. fBodyAccJerkMeanX 
+51. fBodyAccJerkMeanY 
+52. fBodyAccJerkMeanZ 
+53. fBodyAccJerkStandardX 
+54. fBodyAccJerkStandardY 
+55. fBodyAccJerkStandardZ 
+56. fBodyAccJerkMeanFreqX 
+57. fBodyAccJerkMeanFreqY 
+58. fBodyAccJerkMeanFreqZ 
+59. fBodyGyroMeanX 
+60. fBodyGyroMeanY 
+61. fBodyGyroMeanZ 
+62. fBodyGyroStandardX 
+63. fBodyGyroStandardY 
+64. fBodyGyroStandardZ 
+65. fBodyGyroMeanFreqX 
+66. fBodyGyroMeanFreqY 
+67. fBodyGyroMeanFreqZ 
+68. fBodyAccMagMean 
+69. fBodyAccMagStandard 
+70. fBodyAccMagMeanFreq 
+71. fBodyBodyAccJerkMagMean 
+72. fBodyBodyAccJerkMagStandard 
+73. fBodyBodyAccJerkMagMeanFreq 
+74. fBodyBodyGyroMagMean 
+75. fBodyBodyGyroMagStandard 
+76. fBodyBodyGyroMagMeanFreq 
+77. fBodyBodyGyroJerkMagMean 
+78. fBodyBodyGyroJerkMagStandard 
+79. fBodyBodyGyroJerkMagMeanFreq
